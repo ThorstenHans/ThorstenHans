@@ -12,13 +12,12 @@ import (
 )
 
 const (
-	blogURL  = "https://thorsten-hans.com"
+	feedUrl  = "https://thorsten-hans.com/index.xml"
 	filename = "../README.md"
 )
 
 type Readme struct {
-	BlogURL string
-	Posts   []Post
+	Posts []Post
 }
 
 type Post struct {
@@ -46,7 +45,7 @@ Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) 
 `
 
 	p := gofeed.NewParser()
-	feed, err := p.ParseURL(blogURL + "/index.xml")
+	feed, err := p.ParseURL(feedUrl)
 	if err != nil {
 		log.Fatalf("error getting feed: %v", err)
 	}
@@ -63,8 +62,7 @@ Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) 
 	}
 
 	readme := Readme{
-		BlogURL: blogURL,
-		Posts:   posts,
+		Posts: posts,
 	}
 
 	file, err := os.Create(filename)
@@ -75,25 +73,25 @@ Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) 
 
 	t := template.Must(template.New("readme").Parse(tpl))
 	if err = t.Execute(file, readme); err != nil {
-		log.Fatalf("error executing template: %v", err)
+		log.Fatalf("error processing template: %v", err)
 	}
 }
 
 func relativeDate(d string) string {
 	dt, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", d)
 	if err != nil {
-		log.Fatalf("error parsing post date: %v", err)
+		log.Fatalf("error parsing article date: %v", err)
 	}
 	now := time.Now().Unix()
 	days := (now - dt.Unix()) / 86400
 	months := (now - dt.Unix()) / 2592000
 
-	if days == 0 { // Published today
+	if days == 0 {
 		return d
 	}
 
 	date := ""
-	if days < 31 { // Published in the last 31 days
+	if days < 31 {
 		date = strconv.Itoa(int(days))
 		if days == 1 {
 			date += " day"
@@ -102,7 +100,7 @@ func relativeDate(d string) string {
 		}
 	} else {
 		date = strconv.Itoa(int(months))
-		if months == 1 { // Published month(s) ago
+		if months == 1 {
 			date += " month"
 		} else {
 			date += " months"
