@@ -1,11 +1,18 @@
-## Hello, I am Thorsten
+## Hi there, I am Thorsten 👋🏼
 
 - 🇩🇪 I am a cloud consultant from Germany 
 - 🔷 I am a Microsoft MVP since 2011
-- ✏️ I write about cloud and containers at [https://thorsten-hans.com](https://thorsten-hans.com)
 - 🐳 I do quite a bunch of Docker
 - ☸️ Kubernetes is my passion
 - 🌤 Azure is my datacenter
+
+## Recent posts from [my blog](https://thorsten-hans.com) 
+
+- **[Bicep and Terraform compared](https://thorsten-hans.com/bicep-and-terraform-compared/)** (1 day ago)
+- **[Closing down 2020 and approaching 2021](https://thorsten-hans.com/closing-down-2020-and-approaching-2021/)** (3 months ago)
+- **[Install Ubuntu Server 20.10 on a Raspberry Pi](https://thorsten-hans.com/install-ubuntu-server-20-10-on-a-raspberry-pi/)** (4 months ago)
+- **[Azure Cognitive Search integration for Static Site Generators](https://thorsten-hans.com/azure-search-integration-for-static-site-generators/)** (4 months ago)
+- **[Determine the size of Docker image layers](https://thorsten-hans.com/determine-the-size-of-docker-image-layers/)** (4 months ago)
 
 ## Get in touch
 
