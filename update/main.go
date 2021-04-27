@@ -17,7 +17,8 @@ const (
 )
 
 type Readme struct {
-	Posts []Post
+	Posts   []Post
+	Updated string
 }
 
 type Post struct {
@@ -42,6 +43,8 @@ func main() {
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
+
+_last update_: {{ .Updated }}
 `
 
 	p := gofeed.NewParser()
@@ -62,7 +65,8 @@ Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) 
 	}
 
 	readme := Readme{
-		Posts: posts,
+		Posts:   posts,
+		Updated: time.Now().Format("Mon, 02 Jan 2006"),
 	}
 
 	file, err := os.Create(filename)
