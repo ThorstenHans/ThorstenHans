@@ -8,8 +8,8 @@
 
 ## Recent posts from [my blog](https://thorsten-hans.com) 
 
-- **[Encrypt your Kubernetes Secrets with Mozilla SOPS](https://thorsten-hans.com/encrypt-your-kubernetes-secrets-with-mozilla-sops/)** (Tue, 03 Aug 2021 12:59:24 +0200)
-- **[Debugging apps in Kubernetes with Bridge](https://thorsten-hans.com/debugging-apps-in-kubernetes-with-bridge/)** (6 days ago)
+- **[Encrypt your Kubernetes Secrets with Mozilla SOPS](https://thorsten-hans.com/encrypt-your-kubernetes-secrets-with-mozilla-sops/)** (1 day ago)
+- **[Debugging apps in Kubernetes with Bridge](https://thorsten-hans.com/debugging-apps-in-kubernetes-with-bridge/)** (7 days ago)
 - **[Bicep and Terraform compared](https://thorsten-hans.com/bicep-and-terraform-compared/)** (3 months ago)
 - **[Closing down 2020 and approaching 2021](https://thorsten-hans.com/closing-down-2020-and-approaching-2021/)** (7 months ago)
 - **[Install Ubuntu Server 20.10 on a Raspberry Pi](https://thorsten-hans.com/install-ubuntu-server-20-10-on-a-raspberry-pi/)** (7 months ago)
@@ -18,4 +18,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Wed, 04 Aug 2021
+_last update_: Thu, 05 Aug 2021
