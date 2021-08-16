@@ -13,7 +13,7 @@ jobs:
       - name: checkout repo
         uses: actions/checkout@v2
         with:
-          fetch-depth: 1
+          fetch-depth: 0
       - name: Update README
         run: |
           cd ${GITHUB_WORKSPACE}/update/
