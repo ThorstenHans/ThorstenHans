@@ -8,14 +8,14 @@
 
 ## Recent posts from [my blog](https://thorsten-hans.com) 
 
-- **[Azure Functions with Go](https://thorsten-hans.com/azure-functions-with-go/)** (9 days ago)
-- **[Encrypted Secrets in Helm Charts](https://thorsten-hans.com/encrypted-secrets-in-helm-charts/)** (13 days ago)
-- **[Encrypt your Kubernetes Secrets with Mozilla SOPS](https://thorsten-hans.com/encrypt-your-kubernetes-secrets-with-mozilla-sops/)** (21 days ago)
-- **[Debugging apps in Kubernetes with Bridge](https://thorsten-hans.com/debugging-apps-in-kubernetes-with-bridge/)** (27 days ago)
+- **[Azure Functions with Go](https://thorsten-hans.com/azure-functions-with-go/)** (10 days ago)
+- **[Encrypted Secrets in Helm Charts](https://thorsten-hans.com/encrypted-secrets-in-helm-charts/)** (14 days ago)
+- **[Encrypt your Kubernetes Secrets with Mozilla SOPS](https://thorsten-hans.com/encrypt-your-kubernetes-secrets-with-mozilla-sops/)** (22 days ago)
+- **[Debugging apps in Kubernetes with Bridge](https://thorsten-hans.com/debugging-apps-in-kubernetes-with-bridge/)** (28 days ago)
 - **[Bicep and Terraform compared](https://thorsten-hans.com/bicep-and-terraform-compared/)** (4 months ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Wed, 25 Aug 2021
+_last update_: Thu, 26 Aug 2021
