@@ -8,14 +8,14 @@
 
 ## Recent posts from [my blog](https://thorsten-hans.com) 
 
-- **[Azure Functions with Go](https://thorsten-hans.com/azure-functions-with-go/)** (11 days ago)
-- **[Encrypted Secrets in Helm Charts](https://thorsten-hans.com/encrypted-secrets-in-helm-charts/)** (15 days ago)
-- **[Encrypt your Kubernetes Secrets with Mozilla SOPS](https://thorsten-hans.com/encrypt-your-kubernetes-secrets-with-mozilla-sops/)** (23 days ago)
-- **[Debugging apps in Kubernetes with Bridge](https://thorsten-hans.com/debugging-apps-in-kubernetes-with-bridge/)** (29 days ago)
-- **[Bicep and Terraform compared](https://thorsten-hans.com/bicep-and-terraform-compared/)** (4 months ago)
+- **[Send a Microsoft Teams message when new OCI artifacts appear in Azure Container Registry](https://thorsten-hans.com/send-microsoft-teams-message-oci-artifacts-azure-container-registry/)** (Fri, 27 Aug 2021 10:16:31 +0000)
+- **[Azure Functions with Go](https://thorsten-hans.com/azure-functions-with-go/)** (12 days ago)
+- **[Encrypted Secrets in Helm Charts](https://thorsten-hans.com/encrypted-secrets-in-helm-charts/)** (16 days ago)
+- **[Encrypt your Kubernetes Secrets with Mozilla SOPS](https://thorsten-hans.com/encrypt-your-kubernetes-secrets-with-mozilla-sops/)** (24 days ago)
+- **[Debugging apps in Kubernetes with Bridge](https://thorsten-hans.com/debugging-apps-in-kubernetes-with-bridge/)** (30 days ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Fri, 27 Aug 2021
+_last update_: Sat, 28 Aug 2021
