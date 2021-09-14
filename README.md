@@ -8,14 +8,14 @@
 
 ## Recent posts from [my blog](https://thorsten-hans.com) 
 
-- **[External-DNS with Azure Kubernetes Service and Azure DNS](https://thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)** (3 days ago)
-- **[Shadowing and Temporary Mutability in Rust](https://thorsten-hans.com/shadowing-temporary-mutability-rust/)** (5 days ago)
-- **[Working with Environment Variables in Rust](https://thorsten-hans.com/working-with-environment-variables-in-rust/)** (6 days ago)
-- **[Integrate Virtual Machine Scale Sets with Azure Monitor and VMInsights using Terraform](https://thorsten-hans.com/integrate-virtual-machine-scale-sets-azure-monitor-vminsights-terraform/)** (9 days ago)
-- **[Send a Microsoft Teams message when new OCI artifacts appear in Azure Container Registry](https://thorsten-hans.com/send-microsoft-teams-message-oci-artifacts-azure-container-registry/)** (16 days ago)
+- **[External-DNS with Azure Kubernetes Service and Azure DNS](https://thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)** (4 days ago)
+- **[Shadowing and Temporary Mutability in Rust](https://thorsten-hans.com/shadowing-temporary-mutability-rust/)** (6 days ago)
+- **[Working with Environment Variables in Rust](https://thorsten-hans.com/working-with-environment-variables-in-rust/)** (7 days ago)
+- **[Integrate Virtual Machine Scale Sets with Azure Monitor and VMInsights using Terraform](https://thorsten-hans.com/integrate-virtual-machine-scale-sets-azure-monitor-vminsights-terraform/)** (10 days ago)
+- **[Send a Microsoft Teams message when new OCI artifacts appear in Azure Container Registry](https://thorsten-hans.com/send-microsoft-teams-message-oci-artifacts-azure-container-registry/)** (17 days ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Mon, 13 Sep 2021
+_last update_: Tue, 14 Sep 2021
