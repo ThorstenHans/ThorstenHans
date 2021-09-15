@@ -83,7 +83,7 @@ func relativeDate(d string) string {
 	months := (now - dt.Unix()) / 2592000
 
 	if days == 0 {
-		return d
+		return "today"
 	}
 
 	date := ""
