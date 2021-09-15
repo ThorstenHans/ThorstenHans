@@ -35,26 +35,13 @@ func main() {
 		log.Fatalf("Error while reading template file. %v", err)
 		os.Exit(1)
 	}
-	p := gofeed.NewParser()
-	feed, err := p.ParseURL(feedUrl)
+	p, err := getRecentPosts(5)
 	if err != nil {
-		log.Fatalf("error getting feed: %v", err)
+		log.Fatalf("Error while reading recent posts %v", err)
 		os.Exit(1)
 	}
-
-	var posts []Post
-	for i := 0; i < 5; i++ {
-		p := feed.Items[i]
-		post := Post{
-			Title: p.Title,
-			Link:  p.Link,
-			Date:  relativeDate(p.Published),
-		}
-		posts = append(posts, post)
-	}
-
 	readme := Readme{
-		Posts:   posts,
+		Posts:   p,
 		Updated: time.Now().Format("Mon, 02 Jan 2006"),
 	}
 
@@ -73,7 +60,26 @@ func main() {
 	os.Exit(0)
 }
 
-func relativeDate(d string) string {
+func getRecentPosts(max int) ([]Post, error) {
+	p := gofeed.NewParser()
+	feed, err := p.ParseURL(feedUrl)
+	if err != nil {
+		return nil, err
+	}
+
+	posts := make([]Post, max)
+	for i := 0; i < max; i++ {
+		item := feed.Items[i]
+		posts[i] = Post{
+			Title: item.Title,
+			Link:  item.Link,
+			Date:  toRelativeDate(item.Published),
+		}
+	}
+	return posts, nil
+}
+
+func toRelativeDate(d string) string {
 	dt, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", d)
 	if err != nil {
 		log.Fatalf("error parsing article date: %v", err)
