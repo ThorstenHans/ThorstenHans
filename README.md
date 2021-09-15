@@ -12,7 +12,7 @@
 
 - 🦀 Rust
 
-## Recent posts from [my blog](https://thorsten-hans.com)
+## Recent posts I published [on my blog](https://thorsten-hans.com)
 
 - **[Calling HTTP APIs in Rust with reqwest](https://thorsten-hans.com/calling-http-apis-in-rust-with-reqwest/)** (today)
 - **[External-DNS with Azure Kubernetes Service and Azure DNS](https://thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)** (6 days ago)
