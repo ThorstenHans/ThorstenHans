@@ -21,7 +21,7 @@ jobs:
       - name: deploy changes
         run: |
           if [[ `git status --porcelain` ]]; then
-            exit(0)
+            exit 0
           fi
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
