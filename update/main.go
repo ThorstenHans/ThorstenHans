@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
 	"log"
 	"os"
 	"strconv"
@@ -12,8 +13,9 @@ import (
 )
 
 const (
-	feedUrl  = "https://thorsten-hans.com/index.xml"
-	filename = "../README.md"
+	feedUrl      = "https://thorsten-hans.com/index.xml"
+	templatePath = "./template.md"
+	readmePath   = "../README.md"
 )
 
 type Readme struct {
@@ -28,29 +30,16 @@ type Post struct {
 }
 
 func main() {
-	tpl := `## Hi there, I am Thorsten 👋🏼
-
-- 🇩🇪 I am a cloud consultant from Germany 
-- 🔷 I am a Microsoft MVP since 2011
-- 🐳 I do quite a bunch of Docker
-- ☸️ Kubernetes is my passion
-- 🌤 Azure is my datacenter
-
-## Recent posts from [my blog](https://thorsten-hans.com) 
-
-{{range .Posts}}- **[{{.Title}}]({{.Link}})** ({{.Date}})
-{{end}}
-## Get in touch
-
-Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
-
-_last update_: {{ .Updated }}
-`
-
+	tpl, err := ioutil.ReadFile(templatePath)
+	if err != nil {
+		log.Fatalf("Error while reading template file. %v", err)
+		os.Exit(1)
+	}
 	p := gofeed.NewParser()
 	feed, err := p.ParseURL(feedUrl)
 	if err != nil {
 		log.Fatalf("error getting feed: %v", err)
+		os.Exit(1)
 	}
 
 	var posts []Post
@@ -69,16 +58,19 @@ _last update_: {{ .Updated }}
 		Updated: time.Now().Format("Mon, 02 Jan 2006"),
 	}
 
-	file, err := os.Create(filename)
+	file, err := os.Create(readmePath)
 	if err != nil {
 		log.Fatalf("error creating file: %v", err)
+		os.Exit(1)
 	}
 	defer file.Close()
 
-	t := template.Must(template.New("readme").Parse(tpl))
+	t := template.Must(template.New("readme").Parse(string(tpl)))
 	if err = t.Execute(file, readme); err != nil {
 		log.Fatalf("error processing template: %v", err)
+		os.Exit(1)
 	}
+	os.Exit(0)
 }
 
 func relativeDate(d string) string {
