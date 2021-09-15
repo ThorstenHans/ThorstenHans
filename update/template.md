@@ -12,7 +12,7 @@
 
 - 🦀 Rust
 
-## Recent posts from [my blog](https://thorsten-hans.com)
+## Recent posts I published [on my blog](https://thorsten-hans.com)
 
 {{range .Posts}}- **[{{.Title}}]({{.Link}})** ({{.Date}})
 {{end}}
