@@ -14,7 +14,8 @@
 
 ## Recent posts from [my blog](https://thorsten-hans.com)
 
-{{range .Posts}}- **[{{.Title}}]({{.Link}})** ({{.Date}}){{end}}
+{{range .Posts}}- **[{{.Title}}]({{.Link}})** ({{.Date}})
+{{end}}
 
 ## Get in touch
 
