@@ -14,14 +14,14 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Calling HTTP APIs in Rust with reqwest](https://thorsten-hans.com/calling-http-apis-in-rust-with-reqwest/)** (3 days ago)
-- **[External-DNS with Azure Kubernetes Service and Azure DNS](https://thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)** (9 days ago)
-- **[Shadowing and Temporary Mutability in Rust](https://thorsten-hans.com/shadowing-temporary-mutability-rust/)** (11 days ago)
-- **[Working with Environment Variables in Rust](https://thorsten-hans.com/working-with-environment-variables-in-rust/)** (12 days ago)
-- **[Integrate Virtual Machine Scale Sets with Azure Monitor and VMInsights using Terraform](https://thorsten-hans.com/integrate-virtual-machine-scale-sets-azure-monitor-vminsights-terraform/)** (15 days ago)
+- **[Calling HTTP APIs in Rust with reqwest](https://thorsten-hans.com/calling-http-apis-in-rust-with-reqwest/)** (4 days ago)
+- **[External-DNS with Azure Kubernetes Service and Azure DNS](https://thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)** (10 days ago)
+- **[Shadowing and Temporary Mutability in Rust](https://thorsten-hans.com/shadowing-temporary-mutability-rust/)** (12 days ago)
+- **[Working with Environment Variables in Rust](https://thorsten-hans.com/working-with-environment-variables-in-rust/)** (13 days ago)
+- **[Integrate Virtual Machine Scale Sets with Azure Monitor and VMInsights using Terraform](https://thorsten-hans.com/integrate-virtual-machine-scale-sets-azure-monitor-vminsights-terraform/)** (16 days ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sun, 19 Sep 2021
+_last update_: Mon, 20 Sep 2021
