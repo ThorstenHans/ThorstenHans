@@ -14,14 +14,14 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Calling HTTP APIs in Rust with reqwest](https://thorsten-hans.com/calling-http-apis-in-rust-with-reqwest/)** (25 days ago)
+- **[How to Build CLIs in Rust with StructOpt](https://thorsten-hans.com/how-to-build-clis-in-rust-with-structopt/)** (today)
+- **[Calling HTTP APIs in Rust with reqwest](https://thorsten-hans.com/calling-http-apis-in-rust-with-reqwest/)** (26 days ago)
 - **[External-DNS with Azure Kubernetes Service and Azure DNS](https://thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)** (1 month ago)
 - **[Shadowing and Temporary Mutability in Rust](https://thorsten-hans.com/shadowing-temporary-mutability-rust/)** (1 month ago)
 - **[Working with Environment Variables in Rust](https://thorsten-hans.com/working-with-environment-variables-in-rust/)** (1 month ago)
-- **[Integrate Virtual Machine Scale Sets with Azure Monitor and VMInsights using Terraform](https://thorsten-hans.com/integrate-virtual-machine-scale-sets-azure-monitor-vminsights-terraform/)** (1 month ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Mon, 11 Oct 2021
+_last update_: Tue, 12 Oct 2021
