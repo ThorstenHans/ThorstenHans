@@ -14,8 +14,8 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Read-only filesystems in Docker and Kubernetes](https://thorsten-hans.com/read-only-filesystems-in-docker-and-kubernetes/)** (1 day ago)
-- **[How to Build CLIs in Rust with StructOpt](https://thorsten-hans.com/how-to-build-clis-in-rust-with-structopt/)** (9 days ago)
+- **[Read-only filesystems in Docker and Kubernetes](https://thorsten-hans.com/read-only-filesystems-in-docker-and-kubernetes/)** (2 days ago)
+- **[How to Build CLIs in Rust with StructOpt](https://thorsten-hans.com/how-to-build-clis-in-rust-with-structopt/)** (10 days ago)
 - **[Calling HTTP APIs in Rust with reqwest](https://thorsten-hans.com/calling-http-apis-in-rust-with-reqwest/)** (1 month ago)
 - **[External-DNS with Azure Kubernetes Service and Azure DNS](https://thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)** (1 month ago)
 - **[Shadowing and Temporary Mutability in Rust](https://thorsten-hans.com/shadowing-temporary-mutability-rust/)** (1 month ago)
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Thu, 21 Oct 2021
+_last update_: Fri, 22 Oct 2021
