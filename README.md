@@ -14,14 +14,14 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Traffic split in Azure Container Apps](https://thorsten-hans.com/traffic-split-in-azure-container-apps/)** (17 days ago)
-- **[How to deploy Azure Container Apps with Bicep](https://thorsten-hans.com/how-to-deploy-azure-container-apps-with-bicep/)** (18 days ago)
-- **[Introduction to Azure Container Apps](https://thorsten-hans.com/introduction-to-azure-container-apps/)** (19 days ago)
-- **[Distribute WebAssembly modules as OCI artifacts](https://thorsten-hans.com/distribute-webassembly-modules-as-oci-artifacts/)** (19 days ago)
-- **[Add krustlet node pools to Azure Kubernetes Service](https://thorsten-hans.com/add-krustlet-node-pools-to-azure-kubernetes-service/)** (26 days ago)
+- **[Traffic split in Azure Container Apps](https://thorsten-hans.com/traffic-split-in-azure-container-apps/)** (18 days ago)
+- **[How to deploy Azure Container Apps with Bicep](https://thorsten-hans.com/how-to-deploy-azure-container-apps-with-bicep/)** (19 days ago)
+- **[Introduction to Azure Container Apps](https://thorsten-hans.com/introduction-to-azure-container-apps/)** (20 days ago)
+- **[Distribute WebAssembly modules as OCI artifacts](https://thorsten-hans.com/distribute-webassembly-modules-as-oci-artifacts/)** (20 days ago)
+- **[Add krustlet node pools to Azure Kubernetes Service](https://thorsten-hans.com/add-krustlet-node-pools-to-azure-kubernetes-service/)** (27 days ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Mon, 22 Nov 2021
+_last update_: Tue, 23 Nov 2021
