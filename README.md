@@ -14,14 +14,14 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Traffic split in Azure Container Apps](https://thorsten-hans.com/traffic-split-in-azure-container-apps/)** (20 days ago)
-- **[How to deploy Azure Container Apps with Bicep](https://thorsten-hans.com/how-to-deploy-azure-container-apps-with-bicep/)** (21 days ago)
-- **[Introduction to Azure Container Apps](https://thorsten-hans.com/introduction-to-azure-container-apps/)** (22 days ago)
-- **[Distribute WebAssembly modules as OCI artifacts](https://thorsten-hans.com/distribute-webassembly-modules-as-oci-artifacts/)** (22 days ago)
-- **[Add krustlet node pools to Azure Kubernetes Service](https://thorsten-hans.com/add-krustlet-node-pools-to-azure-kubernetes-service/)** (29 days ago)
+- **[Let's build a serverless Christmas image tagging solution with Azure Computer Vision](https://thorsten-hans.com/serverless-image-tagging-with-azure-computer-vision/)** (today)
+- **[Traffic split in Azure Container Apps](https://thorsten-hans.com/traffic-split-in-azure-container-apps/)** (21 days ago)
+- **[How to deploy Azure Container Apps with Bicep](https://thorsten-hans.com/how-to-deploy-azure-container-apps-with-bicep/)** (22 days ago)
+- **[Introduction to Azure Container Apps](https://thorsten-hans.com/introduction-to-azure-container-apps/)** (23 days ago)
+- **[Distribute WebAssembly modules as OCI artifacts](https://thorsten-hans.com/distribute-webassembly-modules-as-oci-artifacts/)** (23 days ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Thu, 25 Nov 2021
+_last update_: Fri, 26 Nov 2021
