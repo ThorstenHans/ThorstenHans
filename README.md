@@ -15,7 +15,7 @@
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
 - **[Automate Azure with Azure Functions and Go](https://thorsten-hans.com/automate-azure-with-azure-functions-and-go/)** (1 month ago)
-- **[Manage ACR geo-replications with Azure CLI](https://thorsten-hans.com/manage-acr-geo-replications-with-azurecli/)** (1 month ago)
+- **[Manage ACR geo-replications with Azure CLI](https://thorsten-hans.com/manage-acr-geo-replications-with-azurecli/)** (2 months ago)
 - **[Let's build a serverless Christmas image tagging solution with Azure Computer Vision](https://thorsten-hans.com/serverless-image-tagging-with-azure-computer-vision/)** (2 months ago)
 - **[Traffic split in Azure Container Apps](https://thorsten-hans.com/traffic-split-in-azure-container-apps/)** (2 months ago)
 - **[How to deploy Azure Container Apps with Bicep](https://thorsten-hans.com/how-to-deploy-azure-container-apps-with-bicep/)** (2 months ago)
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sun, 30 Jan 2022
+_last update_: Mon, 31 Jan 2022
