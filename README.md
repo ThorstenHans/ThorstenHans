@@ -14,7 +14,7 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Exposing gRPC services in Azure Container Apps](https://thorsten-hans.com/exposing-grpc-services-in-azure-container-apps/)** (7 days ago)
+- **[Exposing gRPC services in Azure Container Apps](https://thorsten-hans.com/exposing-grpc-services-in-azure-container-apps/)** (8 days ago)
 - **[Automate Azure with Azure Functions and Go](https://thorsten-hans.com/automate-azure-with-azure-functions-and-go/)** (1 month ago)
 - **[Manage ACR geo-replications with Azure CLI](https://thorsten-hans.com/manage-acr-geo-replications-with-azurecli/)** (2 months ago)
 - **[Let's build a serverless Christmas image tagging solution with Azure Computer Vision](https://thorsten-hans.com/serverless-image-tagging-with-azure-computer-vision/)** (2 months ago)
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Tue, 15 Feb 2022
+_last update_: Wed, 16 Feb 2022
