@@ -1,10 +1,11 @@
 ## Hi there, I am Thorsten 👋🏼
 
-- 🇩🇪 I am a cloud consultant from Germany
-- 🔷 I am a Microsoft MVP since 2011
+- 🇩🇪 I am a cloud-native consultant from Germany
+- 🔷 I am a Microsoft MVP for Azure since 2011
 - 🐳 I do quite a bunch of containers
+- I believe in WebAssembly (Wasm) as the future of server-side distribution and runtime model
 - ☸️ Kubernetes is my passion
-- 🌤 Azure is my datacenter
+- 🌤 Azure is my data center
 - I love 💞 my girls
 - I play ⚽️ and 🏃🏻‍♂️ in my spare time
 
