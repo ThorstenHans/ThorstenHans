@@ -14,8 +14,8 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[How to run your own Helm Repository on Azure Container Apps](https://thorsten-hans.com/how-to-run-your-own-helm-repository-on-azure-container-apps/)** (8 days ago)
-- **[Master Azure CLI queries - The missing manual](https://thorsten-hans.com/master-azure-cli-queries-the-missing-manual/)** (14 days ago)
+- **[How to run your own Helm Repository on Azure Container Apps](https://thorsten-hans.com/how-to-run-your-own-helm-repository-on-azure-container-apps/)** (9 days ago)
+- **[Master Azure CLI queries - The missing manual](https://thorsten-hans.com/master-azure-cli-queries-the-missing-manual/)** (15 days ago)
 - **[Custom health probes with Application Gateway Ingress Controller](https://thorsten-hans.com/custom-health-probes-with-application-gateway-ingress-controller/)** (1 month ago)
 - **[Exposing gRPC services in Azure Container Apps](https://thorsten-hans.com/exposing-grpc-services-in-azure-container-apps/)** (1 month ago)
 - **[Automate Azure with Azure Functions and Go](https://thorsten-hans.com/automate-azure-with-azure-functions-and-go/)** (3 months ago)
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Thu, 24 Mar 2022
+_last update_: Fri, 25 Mar 2022
