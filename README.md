@@ -14,9 +14,9 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Custom health probes with Azure Container Apps](https://thorsten-hans.com/custom-health-probes-with-azure-container-apps/)** (2 days ago)
-- **[How to run your own Helm Repository on Azure Container Apps](https://thorsten-hans.com/how-to-run-your-own-helm-repository-on-azure-container-apps/)** (12 days ago)
-- **[Master Azure CLI queries - The missing manual](https://thorsten-hans.com/master-azure-cli-queries-the-missing-manual/)** (18 days ago)
+- **[Custom health probes with Azure Container Apps](https://thorsten-hans.com/custom-health-probes-with-azure-container-apps/)** (3 days ago)
+- **[How to run your own Helm Repository on Azure Container Apps](https://thorsten-hans.com/how-to-run-your-own-helm-repository-on-azure-container-apps/)** (13 days ago)
+- **[Master Azure CLI queries - The missing manual](https://thorsten-hans.com/master-azure-cli-queries-the-missing-manual/)** (19 days ago)
 - **[Custom health probes with Application Gateway Ingress Controller](https://thorsten-hans.com/custom-health-probes-with-application-gateway-ingress-controller/)** (1 month ago)
 - **[Exposing gRPC services in Azure Container Apps](https://thorsten-hans.com/exposing-grpc-services-in-azure-container-apps/)** (1 month ago)
 
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Mon, 28 Mar 2022
+_last update_: Tue, 29 Mar 2022
