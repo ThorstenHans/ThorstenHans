@@ -14,14 +14,14 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Let's build a CLI in Go with Cobra](https://thorsten-hans.com/lets-build-a-cli-in-go-with-cobra/)** (3 days ago)
-- **[Custom health probes with Azure Container Apps](https://thorsten-hans.com/custom-health-probes-with-azure-container-apps/)** (7 days ago)
-- **[How to run your own Helm Repository on Azure Container Apps](https://thorsten-hans.com/how-to-run-your-own-helm-repository-on-azure-container-apps/)** (17 days ago)
-- **[Master Azure CLI queries - The missing manual](https://thorsten-hans.com/master-azure-cli-queries-the-missing-manual/)** (23 days ago)
+- **[Let's build a CLI in Go with Cobra](https://thorsten-hans.com/lets-build-a-cli-in-go-with-cobra/)** (4 days ago)
+- **[Custom health probes with Azure Container Apps](https://thorsten-hans.com/custom-health-probes-with-azure-container-apps/)** (8 days ago)
+- **[How to run your own Helm Repository on Azure Container Apps](https://thorsten-hans.com/how-to-run-your-own-helm-repository-on-azure-container-apps/)** (18 days ago)
+- **[Master Azure CLI queries - The missing manual](https://thorsten-hans.com/master-azure-cli-queries-the-missing-manual/)** (24 days ago)
 - **[Custom health probes with Application Gateway Ingress Controller](https://thorsten-hans.com/custom-health-probes-with-application-gateway-ingress-controller/)** (1 month ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sat, 02 Apr 2022
+_last update_: Sun, 03 Apr 2022
