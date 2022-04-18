@@ -14,14 +14,14 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Managed Identities With Azure Container Apps](https://thorsten-hans.com/managed-identities-with-azure-container-apps/)** (2 days ago)
-- **[Logging in Kubernetes with Loki and the PLG stack](https://thorsten-hans.com/logging-in-kubernetes-with-loki-and-plg-stack/)** (11 days ago)
-- **[Let's build a CLI in Go with Cobra](https://thorsten-hans.com/lets-build-a-cli-in-go-with-cobra/)** (18 days ago)
-- **[Custom health probes with Azure Container Apps](https://thorsten-hans.com/custom-health-probes-with-azure-container-apps/)** (22 days ago)
+- **[Managed Identities With Azure Container Apps](https://thorsten-hans.com/managed-identities-with-azure-container-apps/)** (3 days ago)
+- **[Logging in Kubernetes with Loki and the PLG stack](https://thorsten-hans.com/logging-in-kubernetes-with-loki-and-plg-stack/)** (12 days ago)
+- **[Let's build a CLI in Go with Cobra](https://thorsten-hans.com/lets-build-a-cli-in-go-with-cobra/)** (19 days ago)
+- **[Custom health probes with Azure Container Apps](https://thorsten-hans.com/custom-health-probes-with-azure-container-apps/)** (23 days ago)
 - **[How to run your own Helm Repository on Azure Container Apps](https://thorsten-hans.com/how-to-run-your-own-helm-repository-on-azure-container-apps/)** (1 month ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sun, 17 Apr 2022
+_last update_: Mon, 18 Apr 2022
