@@ -14,14 +14,14 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[How to lint Docker images with Dockle](https://thorsten-hans.com/lint-docker-images-with-dockle/)** (today)
-- **[Check if your application is running in a Docker container](https://thorsten-hans.com/check-if-application-is-running-in-docker-container/)** (7 days ago)
-- **[Managed Identities With Azure Container Apps](https://thorsten-hans.com/managed-identities-with-azure-container-apps/)** (14 days ago)
-- **[Logging in Kubernetes with Loki and the PLG stack](https://thorsten-hans.com/logging-in-kubernetes-with-loki-and-plg-stack/)** (23 days ago)
-- **[Let's build a CLI in Go with Cobra](https://thorsten-hans.com/lets-build-a-cli-in-go-with-cobra/)** (30 days ago)
+- **[az containerapp up - AKA amazing inner-loop performance](https://thorsten-hans.com/az-containerapp-aka-amazing-loop-performance/)** (today)
+- **[How to lint Docker images with Dockle](https://thorsten-hans.com/lint-docker-images-with-dockle/)** (1 day ago)
+- **[Check if your application is running in a Docker container](https://thorsten-hans.com/check-if-application-is-running-in-docker-container/)** (8 days ago)
+- **[Managed Identities With Azure Container Apps](https://thorsten-hans.com/managed-identities-with-azure-container-apps/)** (15 days ago)
+- **[Logging in Kubernetes with Loki and the PLG stack](https://thorsten-hans.com/logging-in-kubernetes-with-loki-and-plg-stack/)** (24 days ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Fri, 29 Apr 2022
+_last update_: Sat, 30 Apr 2022
