@@ -14,14 +14,14 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Docker SBOM - or how to dive into shift-left security](https://www.thorsten-hans.com/docker-sbom-dive-into-shift-left-security/)** (18 days ago)
-- **[az containerapp up - AKA amazing inner-loop performance](https://www.thorsten-hans.com/az-containerapp-aka-amazing-loop-performance/)** (22 days ago)
-- **[How to lint Docker images with Dockle](https://www.thorsten-hans.com/lint-docker-images-with-dockle/)** (23 days ago)
-- **[Check if your application is running in a Docker container](https://www.thorsten-hans.com/check-if-application-is-running-in-docker-container/)** (30 days ago)
+- **[Docker SBOM - or how to dive into shift-left security](https://www.thorsten-hans.com/docker-sbom-dive-into-shift-left-security/)** (19 days ago)
+- **[az containerapp up - AKA amazing inner-loop performance](https://www.thorsten-hans.com/az-containerapp-aka-amazing-loop-performance/)** (23 days ago)
+- **[How to lint Docker images with Dockle](https://www.thorsten-hans.com/lint-docker-images-with-dockle/)** (24 days ago)
+- **[Check if your application is running in a Docker container](https://www.thorsten-hans.com/check-if-application-is-running-in-docker-container/)** (1 month ago)
 - **[Managed Identities With Azure Container Apps](https://www.thorsten-hans.com/managed-identities-with-azure-container-apps/)** (1 month ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sun, 22 May 2022
+_last update_: Mon, 23 May 2022
