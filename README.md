@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Wed, 29 Jun 2022
+_last update_: Thu, 30 Jun 2022
