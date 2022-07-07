@@ -14,7 +14,7 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Awarded as a Docker Captain and as a Microsoft MVP](https://www.thorsten-hans.com/awarded-as-docker-captain-and-microsoft-mvp/)** (today)
+- **[Awarded as a Docker Captain and as a Microsoft MVP](https://www.thorsten-hans.com/awarded-as-docker-captain-and-microsoft-mvp/)** (1 day ago)
 - **[Docker SBOM - or how to dive into shift-left security](https://www.thorsten-hans.com/docker-sbom-dive-into-shift-left-security/)** (2 months ago)
 - **[az containerapp up - AKA amazing inner-loop performance](https://www.thorsten-hans.com/az-containerapp-aka-amazing-loop-performance/)** (2 months ago)
 - **[How to lint Docker images with Dockle](https://www.thorsten-hans.com/lint-docker-images-with-dockle/)** (2 months ago)
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Wed, 06 Jul 2022
+_last update_: Thu, 07 Jul 2022
