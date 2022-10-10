@@ -14,8 +14,8 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[How to build multi-arch Docker Images with ease](https://www.thorsten-hans.com/how-to-build-multi-arch-docker-images-with-ease/)** (5 days ago)
-- **[Provision AKS and NAT Gateway with Terraform](https://www.thorsten-hans.com/provision-aks-and-nat-gateway-with-terraform/)** (29 days ago)
+- **[How to build multi-arch Docker Images with ease](https://www.thorsten-hans.com/how-to-build-multi-arch-docker-images-with-ease/)** (6 days ago)
+- **[Provision AKS and NAT Gateway with Terraform](https://www.thorsten-hans.com/provision-aks-and-nat-gateway-with-terraform/)** (30 days ago)
 - **[Patch Kubernetes objects with .NET: The Simple Way](https://www.thorsten-hans.com/patch-kubernetes-object-with-dotnet-the-simple-way/)** (1 month ago)
 - **[How to Deploy Azure Container Apps with Terraform](https://www.thorsten-hans.com/deploy-azure-container-apps-with-terraform/)** (1 month ago)
 - **[Let's build a gRPC server and client in Rust with tonic](https://www.thorsten-hans.com/grpc-services-in-rust-with-tonic/)** (3 months ago)
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sun, 09 Oct 2022
+_last update_: Mon, 10 Oct 2022
