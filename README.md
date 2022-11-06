@@ -14,7 +14,7 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Background Workers in Azure Container Apps with KEDA](https://www.thorsten-hans.com/background-workers-in-azure-container-apps-with-keda/)** (18 days ago)
+- **[Background Workers in Azure Container Apps with KEDA](https://www.thorsten-hans.com/background-workers-in-azure-container-apps-with-keda/)** (19 days ago)
 - **[How to build multi-arch Docker Images with ease](https://www.thorsten-hans.com/how-to-build-multi-arch-docker-images-with-ease/)** (1 month ago)
 - **[Provision AKS and NAT Gateway with Terraform](https://www.thorsten-hans.com/provision-aks-and-nat-gateway-with-terraform/)** (1 month ago)
 - **[Patch Kubernetes objects with .NET: The Simple Way](https://www.thorsten-hans.com/patch-kubernetes-object-with-dotnet-the-simple-way/)** (2 months ago)
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sat, 05 Nov 2022
+_last update_: Sun, 06 Nov 2022
