@@ -14,14 +14,14 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[CRUD in WebAssembly with Fermyon Spin and MySQL](https://www.thorsten-hans.com/crud-in-webassembly-with-fermyon-spin-and-mysql/)** (8 days ago)
-- **[Master configuration data in Fermyon Spin](https://www.thorsten-hans.com/master-configuration-data-in-fermyon-spin/)** (13 days ago)
-- **[Azure Blob Storage using the Azure SDK for Go](https://www.thorsten-hans.com/azure-blob-storage-using-azure-sdk-for-golang/)** (14 days ago)
-- **[Building Microservices With WebAssembly and Fermyon Spin](https://www.thorsten-hans.com/building-microservices-with-webassembly-and-fermyon-spin/)** (17 days ago)
-- **[Hot-Reload .NET Configuration in Kubernetes with ConfigMaps](https://www.thorsten-hans.com/hot-reload-net-configuration-in-kubernetes-with-configmaps/)** (22 days ago)
+- **[CRUD in WebAssembly with Fermyon Spin and MySQL](https://www.thorsten-hans.com/crud-in-webassembly-with-fermyon-spin-and-mysql/)** (9 days ago)
+- **[Master configuration data in Fermyon Spin](https://www.thorsten-hans.com/master-configuration-data-in-fermyon-spin/)** (14 days ago)
+- **[Azure Blob Storage using the Azure SDK for Go](https://www.thorsten-hans.com/azure-blob-storage-using-azure-sdk-for-golang/)** (15 days ago)
+- **[Building Microservices With WebAssembly and Fermyon Spin](https://www.thorsten-hans.com/building-microservices-with-webassembly-and-fermyon-spin/)** (18 days ago)
+- **[Hot-Reload .NET Configuration in Kubernetes with ConfigMaps](https://www.thorsten-hans.com/hot-reload-net-configuration-in-kubernetes-with-configmaps/)** (23 days ago)
 
 ## Get in touch
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Thu, 29 Dec 2022
+_last update_: Fri, 30 Dec 2022
