@@ -14,8 +14,8 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Let's build a HTTP router for Spin with Rust](https://www.thorsten-hans.com/http-router-for-spin-with-rust/)** (today)
-- **[Let Spin lift your key-value store](https://www.thorsten-hans.com/let-spin-lift-your-key-value-store/)** (6 days ago)
+- **[Let's build a HTTP router for Spin with Rust](https://www.thorsten-hans.com/http-router-for-spin-with-rust/)** (1 day ago)
+- **[Let Spin lift your key-value store](https://www.thorsten-hans.com/let-spin-lift-your-key-value-store/)** (7 days ago)
 - **[CRUD in WebAssembly with Fermyon Spin and MySQL](https://www.thorsten-hans.com/crud-in-webassembly-with-fermyon-spin-and-mysql/)** (3 months ago)
 - **[Master configuration data in Fermyon Spin](https://www.thorsten-hans.com/master-configuration-data-in-fermyon-spin/)** (4 months ago)
 - **[Azure Blob Storage using the Azure SDK for Go](https://www.thorsten-hans.com/azure-blob-storage-using-azure-sdk-for-golang/)** (4 months ago)
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sat, 15 Apr 2023
+_last update_: Sun, 16 Apr 2023
