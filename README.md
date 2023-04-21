@@ -14,9 +14,9 @@
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[A First Glance at the Spin Router for Rust](https://www.thorsten-hans.com/first-glance-at-spin-router-for-rust/)** (1 day ago)
-- **[Let's build a HTTP router for Spin with Rust](https://www.thorsten-hans.com/http-router-for-spin-with-rust/)** (5 days ago)
-- **[Let Spin lift your key-value store](https://www.thorsten-hans.com/let-spin-lift-your-key-value-store/)** (11 days ago)
+- **[A First Glance at the Spin Router for Rust](https://www.thorsten-hans.com/first-glance-at-spin-router-for-rust/)** (2 days ago)
+- **[Let's build a HTTP router for Spin with Rust](https://www.thorsten-hans.com/http-router-for-spin-with-rust/)** (6 days ago)
+- **[Let Spin lift your key-value store](https://www.thorsten-hans.com/let-spin-lift-your-key-value-store/)** (12 days ago)
 - **[CRUD in WebAssembly with Fermyon Spin and MySQL](https://www.thorsten-hans.com/crud-in-webassembly-with-fermyon-spin-and-mysql/)** (4 months ago)
 - **[Master configuration data in Fermyon Spin](https://www.thorsten-hans.com/master-configuration-data-in-fermyon-spin/)** (4 months ago)
 
@@ -24,4 +24,4 @@
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Thu, 20 Apr 2023
+_last update_: Fri, 21 Apr 2023
