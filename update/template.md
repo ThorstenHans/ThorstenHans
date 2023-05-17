@@ -20,7 +20,6 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 {{range .Posts}}- **[{{.Title}}]({{.Link}})** ({{.Date}})
 {{end}}
-
 ## Say Hi!
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).

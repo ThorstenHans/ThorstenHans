@@ -5,7 +5,6 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-	"strconv"
 	"text/template"
 	"time"
 
@@ -16,6 +15,12 @@ const (
 	feedUrl      = "https://thorsten-hans.com/index.xml"
 	templatePath = "./template.md"
 	readmePath   = "../README.md"
+	maxPosts     = 10
+	today        = "today"
+	day          = "day"
+	days         = "days"
+	month        = "month"
+	months       = "months"
 )
 
 type Readme struct {
@@ -35,7 +40,7 @@ func main() {
 		log.Fatalf("Error while reading template file. %v", err)
 		os.Exit(1)
 	}
-	p, err := getRecentPosts(5)
+	p, err := getRecentPosts(maxPosts)
 	if err != nil {
 		log.Fatalf("Error while reading recent posts %v", err)
 		os.Exit(1)
@@ -79,33 +84,31 @@ func getRecentPosts(max int) ([]Post, error) {
 	return posts, nil
 }
 
-func toRelativeDate(d string) string {
-	dt, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", d)
+func toRelativeDate(dateString string) string {
+	dt, err := time.Parse("Mon, 02 Jan 2006 15:04:05 -0700", dateString)
 	if err != nil {
 		log.Fatalf("error parsing article date: %v", err)
 	}
 	now := time.Now().Unix()
-	days := (now - dt.Unix()) / 86400
-	months := (now - dt.Unix()) / 2592000
+	d := (now - dt.Unix()) / 86400
+	m := (now - dt.Unix()) / 2592000
 
-	if days == 0 {
-		return "today"
+	if d == 0 {
+		return today
 	}
 
 	date := ""
-	if days < 31 {
-		date = strconv.Itoa(int(days))
-		if days == 1 {
-			date += " day"
+	if d < 31 {
+		if d == 1 {
+			date = fmt.Sprintf("%d %s", int(d), day)
 		} else {
-			date += " days"
+			date = fmt.Sprintf("%d %s", int(d), days)
 		}
 	} else {
-		date = strconv.Itoa(int(months))
-		if months == 1 {
-			date += " month"
+		if m == 1 {
+			date = fmt.Sprintf("%d %s", int(m), month)
 		} else {
-			date += " months"
+			date = fmt.Sprintf("%d %s", int(m), months)
 		}
 	}
 	return fmt.Sprintf("%s ago", date)
