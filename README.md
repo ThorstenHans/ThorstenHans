@@ -23,7 +23,11 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 - **[A First Glance at the Spin Router for Rust](https://www.thorsten-hans.com/first-glance-at-spin-router-for-rust/)** (29 days ago)
 - **[Let's build a HTTP router for Spin with Rust](https://www.thorsten-hans.com/http-router-for-spin-with-rust/)** (1 month ago)
 - **[Let Spin lift your key-value store](https://www.thorsten-hans.com/let-spin-lift-your-key-value-store/)** (1 month ago)
-
+- **[CRUD in WebAssembly with Fermyon Spin and MySQL](https://www.thorsten-hans.com/crud-in-webassembly-with-fermyon-spin-and-mysql/)** (4 months ago)
+- **[Master configuration data in Fermyon Spin](https://www.thorsten-hans.com/master-configuration-data-in-fermyon-spin/)** (5 months ago)
+- **[Azure Blob Storage using the Azure SDK for Go](https://www.thorsten-hans.com/azure-blob-storage-using-azure-sdk-for-golang/)** (5 months ago)
+- **[Building Microservices With WebAssembly and Fermyon Spin](https://www.thorsten-hans.com/building-microservices-with-webassembly-and-fermyon-spin/)** (5 months ago)
+- **[Hot-Reload .NET Configuration in Kubernetes with ConfigMaps](https://www.thorsten-hans.com/hot-reload-net-configuration-in-kubernetes-with-configmaps/)** (5 months ago)
 
 ## Say Hi!
 
