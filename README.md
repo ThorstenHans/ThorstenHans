@@ -18,11 +18,11 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[How to use Azure Cosmos DB as a key-value store for Fermyon Spin](https://www.thorsten-hans.com/azure-cosmos-db-as-key-value-store-for-fermyon-spin/)** (3 days ago)
-- **[Weekly Rust Trivia: How to Compute a SHA256 Hash of a File](https://www.thorsten-hans.com/weekly-rust-trivia-compute-a-sha256-hash-of-a-file/)** (4 days ago)
-- **[Weekly Rust Trivia: How to Download an Image to a File](https://www.thorsten-hans.com/weekly-rust-trivia-download-an-image-to-a-file/)** (11 days ago)
-- **[Weekly Rust Trivia: How to Get all Files in a Directory](https://www.thorsten-hans.com/weekly-rust-trivia-get-all-files-in-a-directory/)** (18 days ago)
-- **[How I replaced the backend of my blog with Spin & Fermyon Cloud](https://www.thorsten-hans.com/how-to-blog-backends-with-spin-and-fermyon-cloud/)** (25 days ago)
+- **[How to use Azure Cosmos DB as a key-value store for Fermyon Spin](https://www.thorsten-hans.com/azure-cosmos-db-as-key-value-store-for-fermyon-spin/)** (4 days ago)
+- **[Weekly Rust Trivia: How to Compute a SHA256 Hash of a File](https://www.thorsten-hans.com/weekly-rust-trivia-compute-a-sha256-hash-of-a-file/)** (5 days ago)
+- **[Weekly Rust Trivia: How to Download an Image to a File](https://www.thorsten-hans.com/weekly-rust-trivia-download-an-image-to-a-file/)** (12 days ago)
+- **[Weekly Rust Trivia: How to Get all Files in a Directory](https://www.thorsten-hans.com/weekly-rust-trivia-get-all-files-in-a-directory/)** (19 days ago)
+- **[How I replaced the backend of my blog with Spin & Fermyon Cloud](https://www.thorsten-hans.com/how-to-blog-backends-with-spin-and-fermyon-cloud/)** (26 days ago)
 - **[A First Glance at the Spin Router for Rust](https://www.thorsten-hans.com/first-glance-at-spin-router-for-rust/)** (1 month ago)
 - **[Let's build a HTTP router for Spin with Rust](https://www.thorsten-hans.com/http-router-for-spin-with-rust/)** (1 month ago)
 - **[Let Spin lift your key-value store](https://www.thorsten-hans.com/let-spin-lift-your-key-value-store/)** (1 month ago)
@@ -33,4 +33,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Tue, 30 May 2023
+_last update_: Wed, 31 May 2023
