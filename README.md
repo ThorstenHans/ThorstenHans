@@ -18,11 +18,11 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Weekly Rust Trivia: How to Implement Binary Search](https://www.thorsten-hans.com/weekly-rust-trivia-implement-binary-search/)** (5 days ago)
-- **[Weekly Rust Trivia: How to Read a CSV File](https://www.thorsten-hans.com/weekly-rust-trivia-read-a-csv-file/)** (12 days ago)
-- **[How to use Azure Cosmos DB as a key-value store for Fermyon Spin](https://www.thorsten-hans.com/azure-cosmos-db-as-key-value-store-for-fermyon-spin/)** (18 days ago)
-- **[Weekly Rust Trivia: How to Compute a SHA256 Hash of a File](https://www.thorsten-hans.com/weekly-rust-trivia-compute-a-sha256-hash-of-a-file/)** (19 days ago)
-- **[Weekly Rust Trivia: How to Download an Image to a File](https://www.thorsten-hans.com/weekly-rust-trivia-download-an-image-to-a-file/)** (26 days ago)
+- **[Weekly Rust Trivia: How to Implement Binary Search](https://www.thorsten-hans.com/weekly-rust-trivia-implement-binary-search/)** (6 days ago)
+- **[Weekly Rust Trivia: How to Read a CSV File](https://www.thorsten-hans.com/weekly-rust-trivia-read-a-csv-file/)** (13 days ago)
+- **[How to use Azure Cosmos DB as a key-value store for Fermyon Spin](https://www.thorsten-hans.com/azure-cosmos-db-as-key-value-store-for-fermyon-spin/)** (19 days ago)
+- **[Weekly Rust Trivia: How to Compute a SHA256 Hash of a File](https://www.thorsten-hans.com/weekly-rust-trivia-compute-a-sha256-hash-of-a-file/)** (20 days ago)
+- **[Weekly Rust Trivia: How to Download an Image to a File](https://www.thorsten-hans.com/weekly-rust-trivia-download-an-image-to-a-file/)** (27 days ago)
 - **[Weekly Rust Trivia: How to Get all Files in a Directory](https://www.thorsten-hans.com/weekly-rust-trivia-get-all-files-in-a-directory/)** (1 month ago)
 - **[How I replaced the backend of my blog with Spin & Fermyon Cloud](https://www.thorsten-hans.com/how-to-blog-backends-with-spin-and-fermyon-cloud/)** (1 month ago)
 - **[A First Glance at the Spin Router for Rust](https://www.thorsten-hans.com/first-glance-at-spin-router-for-rust/)** (1 month ago)
@@ -33,4 +33,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Wed, 14 Jun 2023
+_last update_: Thu, 15 Jun 2023
