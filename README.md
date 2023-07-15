@@ -18,11 +18,11 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Weekly Rust Trivia: How to write an HTTP API with Actix](https://www.thorsten-hans.com/weekly-rust-trivia-http-api-with-actix/)** (today)
-- **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (7 days ago)
-- **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (14 days ago)
-- **[Weekly Rust Trivia: How to Retrieve Image Dimensions](https://www.thorsten-hans.com/weekly-rust-trivia-retrieve-image-dimensions/)** (21 days ago)
-- **[Weekly Rust Trivia: How to create a TCP Server](https://www.thorsten-hans.com/weekly-rust-trivia-create-a-tcp-server/)** (28 days ago)
+- **[Weekly Rust Trivia: How to write an HTTP API with Actix](https://www.thorsten-hans.com/weekly-rust-trivia-http-api-with-actix/)** (1 day ago)
+- **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (8 days ago)
+- **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (15 days ago)
+- **[Weekly Rust Trivia: How to Retrieve Image Dimensions](https://www.thorsten-hans.com/weekly-rust-trivia-retrieve-image-dimensions/)** (22 days ago)
+- **[Weekly Rust Trivia: How to create a TCP Server](https://www.thorsten-hans.com/weekly-rust-trivia-create-a-tcp-server/)** (29 days ago)
 - **[Weekly Rust Trivia: How to Implement Binary Search](https://www.thorsten-hans.com/weekly-rust-trivia-implement-binary-search/)** (1 month ago)
 - **[Weekly Rust Trivia: How to Read a CSV File](https://www.thorsten-hans.com/weekly-rust-trivia-read-a-csv-file/)** (1 month ago)
 - **[How to use Azure Cosmos DB as a key-value store for Fermyon Spin](https://www.thorsten-hans.com/azure-cosmos-db-as-key-value-store-for-fermyon-spin/)** (1 month ago)
@@ -33,4 +33,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Fri, 14 Jul 2023
+_last update_: Sat, 15 Jul 2023
