@@ -18,10 +18,10 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Weekly Rust Trivia: How to use pattern matching](https://www.thorsten-hans.com/weekly-rust-trivia-pattern-matching/)** (8 days ago)
-- **[Weekly Rust Trivia: How to share state between threads](https://www.thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (15 days ago)
-- **[Weekly Rust Trivia: How to write a function-like macro](https://www.thorsten-hans.com/weekly-rust-trivia-function-like-macros/)** (22 days ago)
-- **[Weekly Rust Trivia: How to write an HTTP API with Actix](https://www.thorsten-hans.com/weekly-rust-trivia-http-api-with-actix/)** (29 days ago)
+- **[Weekly Rust Trivia: How to use pattern matching](https://www.thorsten-hans.com/weekly-rust-trivia-pattern-matching/)** (10 days ago)
+- **[Weekly Rust Trivia: How to share state between threads](https://www.thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (17 days ago)
+- **[Weekly Rust Trivia: How to write a function-like macro](https://www.thorsten-hans.com/weekly-rust-trivia-function-like-macros/)** (24 days ago)
+- **[Weekly Rust Trivia: How to write an HTTP API with Actix](https://www.thorsten-hans.com/weekly-rust-trivia-http-api-with-actix/)** (1 month ago)
 - **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (1 month ago)
 - **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (1 month ago)
 - **[Weekly Rust Trivia: How to Retrieve Image Dimensions](https://www.thorsten-hans.com/weekly-rust-trivia-retrieve-image-dimensions/)** (1 month ago)
@@ -33,4 +33,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sat, 12 Aug 2023
+_last update_: Mon, 14 Aug 2023
