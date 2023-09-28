@@ -24,7 +24,7 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 - **[Weekly Rust Trivia: How to write a function-like macro](https://www.thorsten-hans.com/weekly-rust-trivia-function-like-macros/)** (2 months ago)
 - **[Weekly Rust Trivia: How to write an HTTP API with Actix](https://www.thorsten-hans.com/weekly-rust-trivia-http-api-with-actix/)** (2 months ago)
 - **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (2 months ago)
-- **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (2 months ago)
+- **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (3 months ago)
 - **[Weekly Rust Trivia: How to Retrieve Image Dimensions](https://www.thorsten-hans.com/weekly-rust-trivia-retrieve-image-dimensions/)** (3 months ago)
 - **[Weekly Rust Trivia: How to create a TCP Server](https://www.thorsten-hans.com/weekly-rust-trivia-create-a-tcp-server/)** (3 months ago)
 - **[Weekly Rust Trivia: How to Implement Binary Search](https://www.thorsten-hans.com/weekly-rust-trivia-implement-binary-search/)** (3 months ago)
@@ -33,4 +33,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Wed, 27 Sep 2023
+_last update_: Thu, 28 Sep 2023
