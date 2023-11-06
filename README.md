@@ -27,10 +27,10 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 - **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (4 months ago)
 - **[Weekly Rust Trivia: How to Retrieve Image Dimensions](https://www.thorsten-hans.com/weekly-rust-trivia-retrieve-image-dimensions/)** (4 months ago)
 - **[Weekly Rust Trivia: How to create a TCP Server](https://www.thorsten-hans.com/weekly-rust-trivia-create-a-tcp-server/)** (4 months ago)
-- **[Weekly Rust Trivia: How to Implement Binary Search](https://www.thorsten-hans.com/weekly-rust-trivia-implement-binary-search/)** (4 months ago)
+- **[Weekly Rust Trivia: How to Implement Binary Search](https://www.thorsten-hans.com/weekly-rust-trivia-implement-binary-search/)** (5 months ago)
 
 ## Say Hi!
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sun, 05 Nov 2023
+_last update_: Mon, 06 Nov 2023
