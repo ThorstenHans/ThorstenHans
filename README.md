@@ -18,7 +18,8 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[A Farewell to Thinktecture](https://www.thorsten-hans.com/farewell-to-thinktecture/)** (18 days ago)
+- **[Wasm ahead - Joining Fermyon](https://www.thorsten-hans.com/wasm-ahead-joining-fermyon/)** (today)
+- **[A Farewell to Thinktecture](https://www.thorsten-hans.com/farewell-to-thinktecture/)** (19 days ago)
 - **[A comprehensive guide on authoring plugins for Fermyon Spin](https://www.thorsten-hans.com/comprehensive-guide-on-authoring-plugins-for-fermyon-spin/)** (4 months ago)
 - **[Weekly Rust Trivia: How to use pattern matching](https://www.thorsten-hans.com/weekly-rust-trivia-pattern-matching/)** (5 months ago)
 - **[Weekly Rust Trivia: How to share state between threads](https://www.thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (5 months ago)
@@ -27,10 +28,9 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 - **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (6 months ago)
 - **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (6 months ago)
 - **[Weekly Rust Trivia: How to Retrieve Image Dimensions](https://www.thorsten-hans.com/weekly-rust-trivia-retrieve-image-dimensions/)** (6 months ago)
-- **[Weekly Rust Trivia: How to create a TCP Server](https://www.thorsten-hans.com/weekly-rust-trivia-create-a-tcp-server/)** (6 months ago)
 
 ## Say Hi!
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Mon, 08 Jan 2024
+_last update_: Tue, 09 Jan 2024
