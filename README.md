@@ -18,11 +18,11 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Wasm ahead - Joining Fermyon](https://www.thorsten-hans.com/wasm-ahead-joining-fermyon/)** (14 days ago)
+- **[Wasm ahead - Joining Fermyon](https://www.thorsten-hans.com/wasm-ahead-joining-fermyon/)** (15 days ago)
 - **[A Farewell to Thinktecture](https://www.thorsten-hans.com/farewell-to-thinktecture/)** (1 month ago)
 - **[A comprehensive guide on authoring plugins for Fermyon Spin](https://www.thorsten-hans.com/comprehensive-guide-on-authoring-plugins-for-fermyon-spin/)** (5 months ago)
 - **[Weekly Rust Trivia: How to use pattern matching](https://www.thorsten-hans.com/weekly-rust-trivia-pattern-matching/)** (5 months ago)
-- **[Weekly Rust Trivia: How to share state between threads](https://www.thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (5 months ago)
+- **[Weekly Rust Trivia: How to share state between threads](https://www.thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (6 months ago)
 - **[Weekly Rust Trivia: How to write a function-like macro](https://www.thorsten-hans.com/weekly-rust-trivia-function-like-macros/)** (6 months ago)
 - **[Weekly Rust Trivia: How to write an HTTP API with Actix](https://www.thorsten-hans.com/weekly-rust-trivia-http-api-with-actix/)** (6 months ago)
 - **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (6 months ago)
@@ -33,4 +33,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Tue, 23 Jan 2024
+_last update_: Wed, 24 Jan 2024
