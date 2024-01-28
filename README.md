@@ -18,7 +18,7 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Wasm ahead - Joining Fermyon](https://www.thorsten-hans.com/wasm-ahead-joining-fermyon/)** (18 days ago)
+- **[Wasm ahead - Joining Fermyon](https://www.thorsten-hans.com/wasm-ahead-joining-fermyon/)** (19 days ago)
 - **[A Farewell to Thinktecture](https://www.thorsten-hans.com/farewell-to-thinktecture/)** (1 month ago)
 - **[A comprehensive guide on authoring plugins for Fermyon Spin](https://www.thorsten-hans.com/comprehensive-guide-on-authoring-plugins-for-fermyon-spin/)** (5 months ago)
 - **[Weekly Rust Trivia: How to use pattern matching](https://www.thorsten-hans.com/weekly-rust-trivia-pattern-matching/)** (5 months ago)
@@ -33,4 +33,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sat, 27 Jan 2024
+_last update_: Sun, 28 Jan 2024
