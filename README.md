@@ -26,11 +26,11 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 - **[Weekly Rust Trivia: How to write a function-like macro](https://www.thorsten-hans.com/weekly-rust-trivia-function-like-macros/)** (7 months ago)
 - **[Weekly Rust Trivia: How to write an HTTP API with Actix](https://www.thorsten-hans.com/weekly-rust-trivia-http-api-with-actix/)** (7 months ago)
 - **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (7 months ago)
-- **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (7 months ago)
+- **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (8 months ago)
 - **[Weekly Rust Trivia: How to Retrieve Image Dimensions](https://www.thorsten-hans.com/weekly-rust-trivia-retrieve-image-dimensions/)** (8 months ago)
 
 ## Say Hi!
 
 Reach out via [🐦 Twitter at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sat, 24 Feb 2024
+_last update_: Sun, 25 Feb 2024
