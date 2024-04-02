@@ -26,11 +26,11 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 - **[Weekly Rust Trivia: How to share state between threads](https://www.thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (8 months ago)
 - **[Weekly Rust Trivia: How to write a function-like macro](https://www.thorsten-hans.com/weekly-rust-trivia-function-like-macros/)** (8 months ago)
 - **[Weekly Rust Trivia: How to write an HTTP API with Actix](https://www.thorsten-hans.com/weekly-rust-trivia-http-api-with-actix/)** (8 months ago)
-- **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (8 months ago)
+- **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (9 months ago)
 - **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (9 months ago)
 
 ## Say Hi!
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Mon, 01 Apr 2024
+_last update_: Tue, 02 Apr 2024
