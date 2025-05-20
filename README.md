@@ -27,10 +27,10 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 - **[Weekly Rust Trivia: How to write a function-like macro](https://www.thorsten-hans.com/weekly-rust-trivia-function-like-macros/)** (22 months ago)
 - **[Weekly Rust Trivia: How to write an HTTP API with Actix](https://www.thorsten-hans.com/weekly-rust-trivia-http-api-with-actix/)** (22 months ago)
 - **[Weekly Rust Trivia: How to Implement the Builder Pattern](https://www.thorsten-hans.com/weekly-rust-trivia-implement-the-builder-pattern/)** (22 months ago)
-- **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (22 months ago)
+- **[Weekly Rust Trivia: How to Implement a Generic Stack](https://www.thorsten-hans.com/weekly-rust-trivia-implement-a-generic-stack/)** (23 months ago)
 
 ## Say Hi!
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Mon, 19 May 2025
+_last update_: Tue, 20 May 2025
