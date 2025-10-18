@@ -18,8 +18,8 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Azure DevOps Extensions for Spin, Fermyon Wasm Functions and Fermyon Cloud](https://www.thorsten-hans.com/azure-devops-extensions-for-spin-fc-and-fwf/)** (today)
-- **[What I’ve Been Up To](https://www.thorsten-hans.com/whats-ive-been-up-to/)** (1 day ago)
+- **[Azure DevOps Extensions for Spin, Fermyon Wasm Functions and Fermyon Cloud](https://www.thorsten-hans.com/azure-devops-extensions-for-spin-fc-and-fwf/)** (1 day ago)
+- **[What I’ve Been Up To](https://www.thorsten-hans.com/whats-ive-been-up-to/)** (2 days ago)
 - **[Uses](https://www.thorsten-hans.com/uses/)** (1 month ago)
 - **[Archive](https://www.thorsten-hans.com/archive/)** (9 months ago)
 - **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://www.thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (19 months ago)
@@ -33,4 +33,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Fri, 17 Oct 2025
+_last update_: Sat, 18 Oct 2025
