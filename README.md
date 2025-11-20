@@ -22,7 +22,7 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 - **[What I’ve Been Up To](https://www.thorsten-hans.com/whats-ive-been-up-to/)** (1 month ago)
 - **[Uses](https://www.thorsten-hans.com/uses/)** (2 months ago)
 - **[Archive](https://www.thorsten-hans.com/archive/)** (10 months ago)
-- **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://www.thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (20 months ago)
+- **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://www.thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (21 months ago)
 - **[Wasm ahead - Joining Fermyon](https://www.thorsten-hans.com/wasm-ahead-joining-fermyon/)** (22 months ago)
 - **[A Farewell to Thinktecture](https://www.thorsten-hans.com/farewell-to-thinktecture/)** (23 months ago)
 - **[A comprehensive guide on authoring plugins for Fermyon Spin](https://www.thorsten-hans.com/comprehensive-guide-on-authoring-plugins-for-fermyon-spin/)** (27 months ago)
@@ -33,4 +33,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Wed, 19 Nov 2025
+_last update_: Thu, 20 Nov 2025
