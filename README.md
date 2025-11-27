@@ -18,19 +18,19 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Azure DevOps Extensions for Spin, Fermyon Wasm Functions and Fermyon Cloud](https://www.thorsten-hans.com/azure-devops-extensions-for-spin-fc-and-fwf/)** (1 month ago)
-- **[What I’ve Been Up To](https://www.thorsten-hans.com/whats-ive-been-up-to/)** (1 month ago)
-- **[Uses](https://www.thorsten-hans.com/uses/)** (3 months ago)
-- **[Archive](https://www.thorsten-hans.com/archive/)** (10 months ago)
-- **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://www.thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (21 months ago)
-- **[Wasm ahead - Joining Fermyon](https://www.thorsten-hans.com/wasm-ahead-joining-fermyon/)** (22 months ago)
-- **[A Farewell to Thinktecture](https://www.thorsten-hans.com/farewell-to-thinktecture/)** (23 months ago)
-- **[A comprehensive guide on authoring plugins for Fermyon Spin](https://www.thorsten-hans.com/comprehensive-guide-on-authoring-plugins-for-fermyon-spin/)** (27 months ago)
-- **[Weekly Rust Trivia: How to use pattern matching](https://www.thorsten-hans.com/weekly-rust-trivia-pattern-matching/)** (28 months ago)
-- **[Weekly Rust Trivia: How to share state between threads](https://www.thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (28 months ago)
+- **[Azure DevOps Extensions for Spin, Fermyon Wasm Functions and Fermyon Cloud](https://thorsten-hans.com/azure-devops-extensions-for-spin-fc-and-fwf/)** (1 month ago)
+- **[What I’ve Been Up To](https://thorsten-hans.com/whats-ive-been-up-to/)** (1 month ago)
+- **[Uses](https://thorsten-hans.com/uses/)** (3 months ago)
+- **[Archive](https://thorsten-hans.com/archive/)** (11 months ago)
+- **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (21 months ago)
+- **[Wasm ahead - Joining Fermyon](https://thorsten-hans.com/wasm-ahead-joining-fermyon/)** (22 months ago)
+- **[A Farewell to Thinktecture](https://thorsten-hans.com/farewell-to-thinktecture/)** (23 months ago)
+- **[A comprehensive guide on authoring plugins for Fermyon Spin](https://thorsten-hans.com/comprehensive-guide-on-authoring-plugins-for-fermyon-spin/)** (27 months ago)
+- **[Weekly Rust Trivia: How to use pattern matching](https://thorsten-hans.com/weekly-rust-trivia-pattern-matching/)** (28 months ago)
+- **[Weekly Rust Trivia: How to share state between threads](https://thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (28 months ago)
 
 ## Say Hi!
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Wed, 26 Nov 2025
+_last update_: Thu, 27 Nov 2025
