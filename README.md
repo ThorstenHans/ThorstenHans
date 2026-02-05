@@ -34,4 +34,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Wed, 04 Feb 2026
+_last update_: Thu, 05 Feb 2026
