@@ -27,11 +27,11 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 - **[A Farewell to Thinktecture](https://thorsten-hans.com/farewell-to-thinktecture/)** (30 months ago)
 - **[A comprehensive guide on authoring plugins for Fermyon Spin](https://thorsten-hans.com/comprehensive-guide-on-authoring-plugins-for-fermyon-spin/)** (34 months ago)
 - **[Weekly Rust Trivia: How to use pattern matching](https://thorsten-hans.com/weekly-rust-trivia-pattern-matching/)** (34 months ago)
-- **[Weekly Rust Trivia: How to share state between threads](https://thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (34 months ago)
+- **[Weekly Rust Trivia: How to share state between threads](https://thorsten-hans.com/weekly-rust-trivia-share-state-between-threads/)** (35 months ago)
 
 
 ## Say Hi!
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Thu, 11 Jun 2026
+_last update_: Fri, 12 Jun 2026
