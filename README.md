@@ -18,13 +18,13 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[I’m Writing a Book on WebAssembly and Spin](https://thorsten-hans.com/i-am-writing-a-book-on-wasm-and-spin/)** (today)
-- **[Component Composition with Spin 4.0](https://thorsten-hans.com/component-composition-with-spin-4/)** (1 day ago)
+- **[I’m Writing a Book on WebAssembly and Spin](https://thorsten-hans.com/i-am-writing-a-book-on-wasm-and-spin/)** (1 day ago)
+- **[Component Composition with Spin 4.0](https://thorsten-hans.com/component-composition-with-spin-4/)** (2 days ago)
 - **[Azure DevOps Extensions for Spin, Fermyon Wasm Functions and Fermyon Cloud](https://thorsten-hans.com/azure-devops-extensions-for-spin-fc-and-fwf/)** (10 months ago)
 - **[What I’ve Been Up To](https://thorsten-hans.com/whats-ive-been-up-to/)** (10 months ago)
 - **[Uses](https://thorsten-hans.com/uses/)** (11 months ago)
 - **[Archive](https://thorsten-hans.com/archive/)** (19 months ago)
-- **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (29 months ago)
+- **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (30 months ago)
 - **[Wasm ahead - Joining Fermyon](https://thorsten-hans.com/wasm-ahead-joining-fermyon/)** (31 months ago)
 - **[A Farewell to Thinktecture](https://thorsten-hans.com/farewell-to-thinktecture/)** (32 months ago)
 - **[A comprehensive guide on authoring plugins for Fermyon Spin](https://thorsten-hans.com/comprehensive-guide-on-authoring-plugins-for-fermyon-spin/)** (36 months ago)
@@ -34,4 +34,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Sun, 16 Aug 2026
+_last update_: Mon, 17 Aug 2026
