@@ -18,8 +18,8 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[I’m Writing a Book on WebAssembly and Spin](https://thorsten-hans.com/i-am-writing-a-book-on-wasm-and-spin/)** (16 days ago)
-- **[Component Composition with Spin 4.0](https://thorsten-hans.com/component-composition-with-spin-4/)** (17 days ago)
+- **[I’m Writing a Book on WebAssembly and Spin](https://thorsten-hans.com/i-am-writing-a-book-on-wasm-and-spin/)** (17 days ago)
+- **[Component Composition with Spin 4.0](https://thorsten-hans.com/component-composition-with-spin-4/)** (18 days ago)
 - **[Azure DevOps Extensions for Spin, Fermyon Wasm Functions and Fermyon Cloud](https://thorsten-hans.com/azure-devops-extensions-for-spin-fc-and-fwf/)** (10 months ago)
 - **[What I’ve Been Up To](https://thorsten-hans.com/whats-ive-been-up-to/)** (10 months ago)
 - **[Uses](https://thorsten-hans.com/uses/)** (12 months ago)
@@ -34,4 +34,4 @@ With extensive experience in developing cloud-based solutions, I specialize in h
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
-_last update_: Tue, 01 Sep 2026
+_last update_: Wed, 02 Sep 2026
